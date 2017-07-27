@@ -30,3 +30,115 @@ See /usr/include/servers/bootstrap_defs.h for the error codes.
 1501178204063	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1501178204077	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
 1501178204111	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501178845777	geckodriver	INFO	Listening on 127.0.0.1:56685
+1501178846685	mozprofile::profile	INFO	Using profile path /var/folders/8x/2z15qqtj6fjbmbdq2b_jvv2h0000gn/T/rust_mozprofile.3Zp69Bted7Db
+1501178846688	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1501178846698	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56694
+1501178847343	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501178849209	Marionette	INFO	Listening on port 56694
+1501178849573	Marionette	DEBUG	loaded listener.js
+1501178849611	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1501178849658	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501178849659	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501178849670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1501178849723	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+2017-07-27 20:07:29.800 plugin-container[7332:540569] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x963b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:07:29.806 plugin-container[7332:540569] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501178872056	geckodriver	INFO	Listening on 127.0.0.1:56768
+1501178873008	mozprofile::profile	INFO	Using profile path /var/folders/8x/2z15qqtj6fjbmbdq2b_jvv2h0000gn/T/rust_mozprofile.OU0Pj5Tnoux4
+1501178873009	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1501178873019	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56774
+1501178873651	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501178875636	Marionette	INFO	Listening on port 56774
+1501178876032	Marionette	DEBUG	loaded listener.js
+1501178876072	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1501178876112	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501178876112	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501178876122	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1501178876167	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+2017-07-27 20:07:56.235 plugin-container[7346:541001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:07:56.240 plugin-container[7346:541001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:08:02.629 plugin-container[7347:541120] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x952f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:08:02.632 plugin-container[7347:541120] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:08:04.386 plugin-container[7350:541188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:08:04.387 plugin-container[7350:541188] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1501178885140	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1501178887253	Marionette	INFO	Ceased listening
+2017-07-27 20:08:08.432 plugin-container[7353:541324] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:08:08.433 plugin-container[7353:541324] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1501178889053	Marionette	INFO	Ceased listening
+2017-07-27 20:08:10.658 plugin-container[7356:541392] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x943b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:08:10.659 plugin-container[7356:541392] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9703, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1501178891275	Marionette	INFO	Ceased listening
+1501178894061	geckodriver	INFO	Listening on 127.0.0.1:56855
+1501178895018	mozprofile::profile	INFO	Using profile path /var/folders/8x/2z15qqtj6fjbmbdq2b_jvv2h0000gn/T/rust_mozprofile.poTwbsk5b2fA
+1501178895020	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1501178895027	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56864
+1501178895620	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501178897460	Marionette	INFO	Listening on port 56864
+1501178897823	Marionette	DEBUG	loaded listener.js
+1501178897858	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1501178897908	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501178897908	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501178897917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1501178897956	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+2017-07-27 20:08:18.007 plugin-container[7364:541597] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:08:18.009 plugin-container[7364:541597] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9903, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501179149811	geckodriver	INFO	Listening on 127.0.0.1:56975
+1501179150772	mozprofile::profile	INFO	Using profile path /var/folders/8x/2z15qqtj6fjbmbdq2b_jvv2h0000gn/T/rust_mozprofile.k9LAkHPLqDCK
+1501179150774	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1501179150779	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56981
+1501179151271	Marionette	WARN	Deprecated preference marionette.defaultPrefs.enabled detected, please use marionette.enabled
+1501179152962	Marionette	INFO	Listening on port 56981
+1501179153313	Marionette	DEBUG	loaded listener.js
+1501179153348	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1501179153393	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501179153393	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501179153402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1501179153438	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+2017-07-27 20:12:33.497 plugin-container[7412:543854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 20:12:33.502 plugin-container[7412:543854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9803, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1501179153524	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
