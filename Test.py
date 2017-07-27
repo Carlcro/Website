@@ -14,4 +14,3 @@ class NewClass(object):
     def __init__(self, arg):
         superNewClass, self).__init__()
         self.arg = arg
-        
