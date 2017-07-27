@@ -5,3 +5,6 @@ def Someting(x,y):
 
 def Another(x,y):
     return x/y
+
+def printFunction(x):
+    print(x)
